@@ -1,5 +1,5 @@
-Im SornchaiTheDev \n
-I'm interest in React , JS , Firebase \n
-SMTE PhuketWittayalai School\n
-Founder : Daipay \n
+Im SornchaiTheDev
+I'm interest in React , JS , Firebase
+SMTE PhuketWittayalai School
+Founder : Daipay
 17 years old like to code XD 🎈
