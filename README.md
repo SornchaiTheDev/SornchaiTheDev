@@ -19,4 +19,5 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SornchaiTheDev&theme=ayu-light&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
+## 🏆 Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=SornchaiTheDev&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
